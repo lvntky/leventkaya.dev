@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java on Levent Kaya</title>
+    <link>https://leventkaya.dev/tags/java/</link>
+    <description>Recent content in java on Levent Kaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2024 19:54:54 +0300</lastBuildDate>
+    <atom:link href="https://leventkaya.dev/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Java Virtual Machine in C&#43;&#43;(Again) - part #1</title>
+      <link>https://leventkaya.dev/posts/jvm-in-cpp/2024-06-10-jvm-in-cpp-part-one/</link>
+      <pubDate>Mon, 10 Jun 2024 19:54:54 +0300</pubDate>
+      <guid>https://leventkaya.dev/posts/jvm-in-cpp/2024-06-10-jvm-in-cpp-part-one/</guid>
+      <description>The first implementation of CVM (in C) : CMV/archive The WIP re-implementation of CVM a.k.a CVM++ (in C++) : CVM/dev&#xA;The CVM++ About a year ago, I decided to write a jvm in C, and I did. It just wasn&amp;rsquo;t quite what I wanted and it lacked many functions. Actually, I wrote a java debugger on a binary level rather than a jvm. A year later, I decided to look at this project again and give it the functionality it deserves.</description>
+    </item>
+  </channel>
+</rss>
