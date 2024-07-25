@@ -1,7 +1,7 @@
-name: "Jekyll true minimal theme"
-description: "Lightweight theme"
+name: "Levent Kaya"
+description: "Technical and Personal Blog"
 
-url: '' 
+url: 'https://leventkaya.dev' 
 baseurl: ''
 
 markdown: kramdown
