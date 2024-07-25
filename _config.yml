@@ -14,6 +14,8 @@ kramdown:
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
 paginate: 10
 paginate_path: /page-:num
 
@@ -26,3 +28,10 @@ sass:
     style: :compressed
     sass_dir: assets/css/
 
+seo:
+  title: Levent Kaya
+  description: Levent Kaya's Technical and Personal Blog
+  url: "https://www.leventkaya.dev"
+  author: Levent Kaya
+  twitter:
+    username: lvntkydev
